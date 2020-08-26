@@ -19,4 +19,4 @@
 ## Demo
 Demo:[https://bing.kakkk.cc/bing.php](https://bing.kakkk.cc/bing.php "https://bing.kakkk.cc/bing.php")
 
-![Demo](https://bing.kakkk.cc/bing.php "Demo")
+<img src="https://bing.kakkk.cc/bing.php">
